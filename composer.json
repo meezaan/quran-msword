@@ -1,0 +1,6 @@
+{
+    "require": {
+        "alquran/api-client": "^1.0",
+        "phpoffice/phpword": "^0.13.0"
+    }
+}
